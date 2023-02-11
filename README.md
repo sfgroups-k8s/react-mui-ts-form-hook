@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## commands
+``
+npx create-react-app my-app --template typescript
+npm install react-hook-form --save
+
+npm install @mui/material @emotion/react @emotion/styled --save
+npm install @mui/material @mui/styled-engine-sc styled-components --save
+
+npm install @fontsource/roboto --save
+
+npm install @mui/icons-material --save
+
+npm install yup --save
+npm i @hookform/resolvers --save
+``
+
 ## Available Scripts
 
 In the project directory, you can run:
