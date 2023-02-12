@@ -1,11 +1,14 @@
 import React from 'react';
-
-import FieldArrayForm from './components/formprovider';
+import LoginForm from './components/LoginForm';
+import Home from './components/home';
 
 function App() {
   return (
     <div className="App">
-     <FieldArrayForm/>
+
+ 
+     <br/>
+     <Home/>
     </div>
   );
 }

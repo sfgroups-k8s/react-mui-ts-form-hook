@@ -13,8 +13,7 @@ const ReactHookFormTextFieldMemo = memo(
     <TextField
       label={label}
       variant="outlined"
-      error={!!methods.formState.errors[name]}
-     
+      error={!!methods.formState.errors[name]}     
       fullWidth
       margin="dense"
       {...methods.register(name)}
