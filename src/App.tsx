@@ -8,7 +8,7 @@ function App() {
 
  
      <br/>
-     <Home/>
+     <LoginForm/>
     </div>
   );
 }
